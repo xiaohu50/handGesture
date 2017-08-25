@@ -21,6 +21,7 @@
 * [MSRA](https://github.com/geliuhao/CVPR2016_HandPoseEstimation) 只有深度
 * [Multimedia Technology and Telecommunications Laboratory](http://lttm.dei.unipd.it/downloads/gesture/#kinect_leap)
 * http://www.cs.technion.ac.il/~twerd/HandNet/ 也是深度数据
+* http://www.cs.man.ac.uk/%7Egoudied/research.html 只有深度数据
 
 
 ## 其他
