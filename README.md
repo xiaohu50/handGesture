@@ -1,5 +1,7 @@
-# 数据集
+# 论文集合
+[2014-2017手势识别相关的论文整理，很不错](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 
+# 数据集
 
 ## 包含彩色和点
 * [3D Hand Pose Tracking and Estimation Using a Stereo Camera](https://sites.google.com/site/zhjw1988/), 包含深度和彩色的21个手部点，640x480, 18000图
